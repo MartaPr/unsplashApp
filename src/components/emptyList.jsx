@@ -1,6 +1,6 @@
 import React from "react";
-import FontAwesomeIcon from "@fortawesome/react-fontawesome";
-import faFrown from "@fortawesome/fontawesome-free-solid/faFrown";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faFrown} from "@fortawesome/free-solid-svg-icons/faFrown";
 
 const EmptyList = () => {
   return (

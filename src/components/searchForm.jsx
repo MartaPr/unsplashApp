@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import FontAwesomeIcon from "@fortawesome/react-fontawesome";
-import faSearch from "@fortawesome/fontawesome-free-solid/faSearch";
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import {faSearch} from "@fortawesome/free-solid-svg-icons/faSearch";
 
 class SearchForm extends Component {
   state = {
